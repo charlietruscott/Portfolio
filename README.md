@@ -6,12 +6,12 @@
 - [Project Documents](docs/assest/Nerf_gun_project.pdf)
 ### PathFinder
 - A C++ pathfinding visualiser built with SplashKit that animates Breadth-First Search finding the shortest route across a customisable grid, with diagonal movement, live stats, and an experimental 4D grid extension.
-- [Project Documents]()
+- [Project Documents](docs/assest/Pathfinder.pdf)
 - [Gitbut Repository](https://github.com/charlietruscott/HD-project)
 
 ### Truss Deisgn
 - Designed, calculated, and 3D-printed a cantilever truss for a Monash engineering brief, combining hand-calculated method-of-joints analysis with CAD modelling and physical testing to meet strict load and span requirements.
-[Project Documents]()
+- [Project Documents]()
 
 # Education
 - Monash University
