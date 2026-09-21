@@ -16,4 +16,11 @@
 
 # Education
 - Monash University
+- Engineering Student
+- Major in Electrical and Computer Engineering
+
+# About Me
+-
+-
+-
 
