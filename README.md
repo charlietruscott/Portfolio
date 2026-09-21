@@ -20,7 +20,7 @@
 - Major in Electrical and Computer Engineering
 
 # About Me
--
--
--
+- Run my own local gardening business
+- Played State level basketball and local footy for 10+ years
+- Currently trying to make a Combat Robotics student team
 
