@@ -11,7 +11,7 @@
 
 ### Truss Deisgn
 - Designed, calculated, and 3D-printed a cantilever truss for a Monash engineering brief, combining hand-calculated method-of-joints analysis with CAD modelling and physical testing to meet strict load and span requirements.
-- [Project Documents]()
+- [Project Documents](docs/assest/Truss_design.pdf)
 
 # Education
 - Monash University
