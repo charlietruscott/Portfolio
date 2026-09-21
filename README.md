@@ -23,4 +23,5 @@
 - Run my own local gardening business
 - Played State level basketball and local footy for 10+ years
 - Currently trying to make a Combat Robotics student team
+- Linkin: https://www.linkedin.com/in/charlie-truscott-5520773b3/
 
