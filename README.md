@@ -3,7 +3,7 @@
 ## Projects
 ### Aim Bot Nerf Gun
 - Built a laser-sighting system for a Nerf blaster that automatically compensates for projectile drop, using field-tested trajectory data and real-time servo correction to give an accurate point-of-aim at any range.
-- [Project Documents]()
+- [Project Documents](docs/assest/Nerf_gun_project.pdf)
 ### PathFinder
 - A C++ pathfinding visualiser built with SplashKit that animates Breadth-First Search finding the shortest route across a customisable grid, with diagonal movement, live stats, and an experimental 4D grid extension.
 - [Project Documents]()
