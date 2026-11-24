@@ -1,6 +1,10 @@
 # Portfolio
 
 ## Projects
+### Traffic Control Safety System
+- Worked in a team of five on a model tunnel-safety system; developed Arduino/Python control logic using ultrasonic sensors to detect overheight vehicles and stop approaching traffic.
+- Built a battery-powered alarm circuit that detects loss of controller power through a op-amp and sounds a 556-timer warning, providing a hardware safety alert independent of software.
+
 ### Aim Bot Nerf Gun
 - Built a laser-sighting system for a Nerf blaster that automatically compensates for projectile drop, using field-tested trajectory data and real-time servo correction to give an accurate point-of-aim at any range.
 - [Project Documents](docs/assest/Nerf_gun_project.pdf)
